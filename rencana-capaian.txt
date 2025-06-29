@@ -1,3 +1,5 @@
 - selesai framework css
 -selesai framework js 
 -sudah selesai belajar keduanya
+belajar react
+belajar angular
