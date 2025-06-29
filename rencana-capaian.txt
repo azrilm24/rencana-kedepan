@@ -1,2 +1,4 @@
 - selesai framework css
 -selesai framework js 
+- belajar node js
+-belajar git
