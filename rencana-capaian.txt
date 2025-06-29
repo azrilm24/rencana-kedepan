@@ -2,4 +2,4 @@
 -selesai framework js 
 -sudah selesai belajar keduanya
 belajar react
-belajar angular
+belajar vue
