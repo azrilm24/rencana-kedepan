@@ -1,4 +1,3 @@
 - selesai framework css
 -selesai framework js 
-- belajar node js
--belajar git
+-sudah selesai belajar keduanya
